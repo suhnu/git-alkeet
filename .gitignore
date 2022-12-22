@@ -1,4 +1,4 @@
 # .in, .out ja .pyc
-.in
-.out
-.pyc
+*.in
+*.out
+*.pyc
